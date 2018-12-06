@@ -20,3 +20,16 @@
 **Links**:
 * [Wikipedia (de)](https://de.wikipedia.org/wiki/Karl-Foerster-Garten_(Bornim)) 
 * [City Potsdam](https://www.potsdam.de/foerster-garten-potsdams-norden)
+
+
+## Branitzer Park
+
+**Location**: Cottbus, Brandenburg
+
+**Style**: Landscape (19th century)
+
+**Architect**: Hermann von Pückler-Muskau
+
+**Links**:
+* [Wikipedia (de)](https://de.wikipedia.org/wiki/Branitzer_Park)
+* [City Cottbus](http://www.cottbus.de/sehenswert/museen/fuerst-pueckler-museum_park_und_schloss_branitz.html)
