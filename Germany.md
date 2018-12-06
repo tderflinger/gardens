@@ -1,7 +1,7 @@
 # Gardens of Germany
 
 ## Grosser Garten
-**Location**: Hannover
+**Location**: Hannover, Lower Saxony
 
 **Style**: Baroque (17th century)
 
