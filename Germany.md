@@ -2,6 +2,7 @@
 
 ## Grosser Garten
 Location: Hannover
+
 Style: Baroque (17th century)
 
 * [Wikipedia (de)](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Garten_(Hannover))
